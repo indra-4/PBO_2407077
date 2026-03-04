@@ -1,5 +1,10 @@
 package lat1;
 import java.util.Scanner;
+
+import lat4.Balok;
+import lat4.Kubus;
+import lat4.Tabung;
+
 import java.util.ArrayList;
 
 /**

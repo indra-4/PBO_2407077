@@ -1,4 +1,4 @@
-package lat1;
+package lat3;
 import java.util.Scanner;
 
 public class Menghitung_BangunRuang {
