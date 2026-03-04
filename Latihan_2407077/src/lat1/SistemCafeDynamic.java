@@ -1,4 +1,4 @@
-package lat1.lat1;
+package lat1;
 
 import java.util.HashMap;
 import java.util.Map;

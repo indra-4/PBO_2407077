@@ -1,4 +1,4 @@
-package lat1;
+package lat2;
 
 /**
  * Kelas abstrak BangunRuang sebagai superclass/parent class

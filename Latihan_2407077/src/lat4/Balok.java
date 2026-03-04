@@ -1,6 +1,6 @@
 package lat4;
 
-import lat1.BangunRuang;
+import lat2.BangunRuang;
 
 public class Balok extends BangunRuang {
     private double panjang;

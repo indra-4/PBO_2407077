@@ -1,4 +1,4 @@
-package lat1;
+package lat2;
 
 class PersegiPanjang {
     private int panjang;

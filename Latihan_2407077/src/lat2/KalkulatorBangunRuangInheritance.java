@@ -1,4 +1,4 @@
-package lat1;
+package lat2;
 import java.util.Scanner;
 
 import lat4.Balok;

@@ -1,6 +1,6 @@
 package lat4;
 
-import lat1.BangunRuang;
+import lat2.BangunRuang;
 
 public class Kubus extends BangunRuang {
     private double sisi;
