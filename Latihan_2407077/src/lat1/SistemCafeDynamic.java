@@ -18,7 +18,7 @@ class Bahan {
     }
 
     public String getNama() { return nama; }
-    public int getStok() { return stok; }
+    public int getStok() { return stok; } 
     public String getSatuan() { return satuan; }
     public double getHargaPerSatuan() { return hargaPerSatuan; }
 
