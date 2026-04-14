@@ -9,6 +9,8 @@ public class Main {
 
         // Melakukan instansiasi objek BangunRuang
         BangunRuang balok = new BangunRuang(panjang, lebar, tinggi);
+        Mahasiswa mhs = new Mahasiswa("Rama", "2407077");
+        mhs.perkenalan();
 
         // 4a & 4b. Menampilkan hasil
         System.out.println("=== Hasil Perhitungan Objek ===");
